@@ -20,17 +20,6 @@ The User database is responsible for:
 - Managing user preferences
 - Supporting profile updates
 
-It is **not** responsible for:
-
-- User authentication
-- Password management
-- Role and permission management
-- JWT or Refresh Token storage
-- Login history
-- Password reset or email verification
-
-These responsibilities belong to the **Auth Database**.
-
 ---
 
 ## Business Rules
